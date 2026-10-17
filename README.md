@@ -1,12 +1,12 @@
 
 # Painel de Estudos
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 Painel para acompanhar tarefas e notas de estudos, desenvolvido com Bootstrap e JavaScript.
 
 ---
 
-## 🧩 Componentes do Bootstrap
+##  Componentes do Bootstrap
 - **Navbar**: Cabeçalho do site.
 - **Container / Row / Col**: Organização e responsividade da tela.
 - **Card**: Blocos de conteúdo para as matérias e o progresso.
@@ -17,7 +17,7 @@ Painel para acompanhar tarefas e notas de estudos, desenvolvido com Bootstrap e 
 
 ---
 
-## 💻 Conceitos de JavaScript
+##  Conceitos de JavaScript
 
 ### Variáveis (`let`, `const`, `var`)
 - **`const`**: Para valores fixos que não mudam (ex: nome do aluno).
@@ -35,6 +35,6 @@ Verifica se a média do aluno é maior ou igual a 6 para decidir se ele foi apro
 
 ---
 
-## 🛠️ Dificuldade e Resolução
+##  Dificuldade e Resolução
 - **Dificuldade:** Estruturar o layout responsivo utilizando apenas as classes prontas do Bootstrap.
 - **Resolução:** Uso correto da grid (`container`, `row`, `col`) e classes utilitárias de espaçamento.
